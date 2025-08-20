@@ -4,7 +4,7 @@
 
 // Return the maximum amount of water a container can store.
 
-// Notice that you may not slant the container.
+// Notice that you may not slant the container....
 
 
 // Example 1:
