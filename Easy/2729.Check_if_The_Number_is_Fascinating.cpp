@@ -7,8 +7,6 @@
 
 // Concatenating two numbers means joining them together. For example, the concatenation of 121 and 371 is 121371.
 
- 
-
 // Example 1:
 
 // Input: n = 192
